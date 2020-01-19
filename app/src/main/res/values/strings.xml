@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MCQ Quiz</string>
+    <string name="start_quiz">START QUIZ</string>
+    <string name="my_mcq_quiz">MY MCQ QUIZ</string>
+    <string name="high">HighScore : 0</string>
+    <string name="score">Score : 0</string>
+    <string name="question_1_x">Question : 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="option1">Option1</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_2">Option 2</string>
+    <string name="confirm">CONFIRM</string>
+</resources>
